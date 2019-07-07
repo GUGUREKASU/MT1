@@ -20,7 +20,7 @@ class PlanPostController extends Controller
    */
   public function add()
   {
-    return view('plan.add');
+    return view('planPost.add');
   }
 
   /**

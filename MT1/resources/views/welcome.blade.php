@@ -72,7 +72,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="/MT1/public/plan/add">CREATE PLAN</a>
+                    <a href="/MT1/public/planPost/add">CREATE PLAN</a>
                     <a href="">TEST</a>
                 </div>
             </div>

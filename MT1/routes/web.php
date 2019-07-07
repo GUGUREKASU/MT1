@@ -14,5 +14,5 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('plan/add', 'PlanPostController@add')->name('plan_add');
-Route::post('plan/add', 'PlanPostController@create')->name('plan_create');
+Route::get('planPost/add', 'PlanPostController@add')->name('plan_add');
+Route::post('planPost/add', 'PlanPostController@create')->name('plan_create');
